@@ -4,6 +4,7 @@ Contoh saja(Cabang)
   *Penjelasan contoh cabang 1.1
   *Penjelasan contoh cabang 1.2
    ^ Cabang 1.2
+   ^ Cabang 1.2.1
 - Contoh branch konflik  
 - Contoh cabang 2
   ^ Materi cabang 2
